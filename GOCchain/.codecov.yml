@@ -1,0 +1,6 @@
+
+codecov:
+  ci:
+    - ci.ops.GOC.com  # add custom jenkins server
+    - !appveyor
+    - !travis
