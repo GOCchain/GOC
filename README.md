@@ -1,6 +1,6 @@
 # What is GOC?
 
-GOC Chain was born - Blockchain 3.0 Technology
+GOC CHAIN was born - Blockchain 3.0 Technology
 The Cambodia International Operation Center, the United Nations World Peace Foundation-International Greenpeace Industry Alliance, Beijing Xinshijie Technology Co., Ltd., and Xinpinhui Mall jointly provide guidance and support for the birth, operation, development and application value of Chain Link Vision. Relying on the technology research and development of Beijing Xinshijie Technology Co., Ltd., combined with the online Xinpinhui Mall, the International Green Industry Alliance and all kinds of offline businesses to create a better application scenario for the chain communication vision, in the future, we will realize the chain vision. Blockchain value wealth innovation.
 
 Name: Global Open Chain
